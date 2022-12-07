@@ -1,5 +1,6 @@
 from info_liste import traitement
 
+
 liste_ville = ['paris','Lyon','Marseille','Toulouse','Bordeaux']
 liste_vide = []
 
